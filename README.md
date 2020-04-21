@@ -4,8 +4,8 @@ Revit Hotkey = Toggle Fly = Shift+Ctrl+F\
 Revit Hotkey = Toggle Perspective = Shift+Ctrl+P\
 \
 Xinput\
-Gamepad B = Toggle Fly
-Gamepad Y = Toggle Perspective
+Gamepad B = Toggle Fly\
+Gamepad Y = Toggle Perspective\
 Gamepad Play button = Toggle Fly\
 Gamepad back button = Home view\
 Gamepad R shoulder = Speed Up\
