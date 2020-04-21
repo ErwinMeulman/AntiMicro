@@ -113,6 +113,38 @@
                     </slots>
                 </triggerbutton>
             </trigger>
+            <button index="2">
+                <slots>
+                    <slot>
+                        <code>0x1000020</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x1000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x46</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="4">
+                <slots>
+                    <slot>
+                        <code>0x1000020</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x1000021</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>0x50</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
             <button index="5">
                 <slots>
                     <slot>
@@ -132,7 +164,7 @@
                         <mode>keyboard</mode>
                     </slot>
                     <slot>
-                        <code>0x46</code>
+                        <code>0x50</code>
                         <mode>keyboard</mode>
                     </slot>
                 </slots>
