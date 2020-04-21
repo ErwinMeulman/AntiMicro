@@ -1,7 +1,7 @@
 # AntiMicro
 
 Revit Hotkey = Toggle Fly = Shift+Ctrl+F\
-Revit Hotkey = Toggle Perspective = Shift+Ctrl+P\
+Revit Hotkey = Toggle Perspective = Shift+Ctrl+P
 
 Xinput\
 Gamepad B = Toggle Fly\
@@ -11,7 +11,7 @@ Gamepad back button = Home view\
 Gamepad R shoulder = Speed Up\
 Gamepad L shoulder = Speed Down\
 Gamepad R trigger = Up\
-Gamepad L trigger = Down\
+Gamepad L trigger = Down
 
 
 https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.msi
