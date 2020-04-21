@@ -3,7 +3,7 @@
 Revit Hotkey = Toggle Fly = Shift+Ctrl+F
 
 Xinput
-Gamepad Play button = Toggle Fly
+Gamepad Play button = Toggle Fly\
 Gamepad back button = Home view
 Gamepad R shoulder = Speed Up
 Gamepad L shoulder = Speed Down
