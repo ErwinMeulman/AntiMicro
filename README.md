@@ -17,3 +17,6 @@ Gamepad L trigger = Down
 https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.msi
 
 ![Screenshot](https://raw.githubusercontent.com/ErwinMeulman/AntiMicro/master/game-controllers.png)
+
+
+[![Watch the video](https://img.youtube.com/vi/WXAncgZit_A/maxresdefault.jpg)](https://youtu.be/WXAncgZit_A)
